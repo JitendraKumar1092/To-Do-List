@@ -6,9 +6,11 @@
 }
 
 body {
+    height: 100%;
     background-image: url("https://cdn.pixabay.com/photo/2015/09/11/00/35/blended-935156__340.jpg");
-    background-repeat: no-repeat;
-    margin: 50px 2%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* container title */
