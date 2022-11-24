@@ -6,8 +6,10 @@
 }
 
 body {
-    background-image: linear-gradient(to right, #605e7e, #6b73c1, #37b3cc);
+    background-image: url("https://cdn.pixabay.com/photo/2018/04/29/21/27/nature-3361174__340.jpg");
+    
     margin: 50px 2%;
+    background-attachment: fixed;
 }
 
 /* container title */
